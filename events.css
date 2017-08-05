@@ -1,0 +1,53 @@
+    body {
+        font-family: 'Carrois Gothic';
+        font-size: 1em;
+    }
+    
+    #keypress-input {
+        width: 100px;
+        padding: 5px;
+        font-family: 'Carrois Gothic';
+    }
+    
+    button {
+        display: block;
+        height: 50px;
+        width: 100px;
+        background-color: darkorchid;
+        border-radius: 3px;
+        font-family: 'Carrois Gothic';
+        font-size: 1em;
+        color: whitesmoke;
+    }
+    
+    #output-target {
+        padding: 5px;
+        background-color: whitesmoke;
+    }
+    
+    .colorPig {
+        color: darkblue;
+        font-variant: bold;
+    }
+    
+    .growPig {
+        font-size: 3em;
+    }
+    
+    .borderPig {
+        border: 3px, solid, seagreen;
+    }
+    
+    .radiusPig {
+        border: 4px, solid, seagreen;
+        border-radius: 25%;
+    }
+    
+    #intro {
+        font-weight: bolder;
+    }
+    
+    #conclusion {
+        font-weight: bolder;
+        font-style: italic;
+    }
